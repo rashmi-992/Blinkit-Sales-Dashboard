@@ -4,6 +4,7 @@
 
 This Power BI dashboard provides a comprehensive analysis of sales performance, item categorization, outlet distribution, and customer ratings for Blinkit, a quick-commerce grocery and retail delivery service.
 
+![Screenshot 2025-06-11 185505](https://github.com/user-attachments/assets/dec8c98f-6ccf-4915-b147-fca9498fbffd)
 
 
 ---
